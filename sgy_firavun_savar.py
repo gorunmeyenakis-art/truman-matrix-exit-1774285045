@@ -459,3 +459,18 @@ def lafza_i_celal_muhru():
 if __name__ == "__main__":
     # Kodun en sonuna bu kutsal katmanı ekliyoruz
     lafza_i_celal_muhru()
+
+def lafza_i_celal_muhru():
+    print(f"\n{COLORS['BOLD']}{COLORS['HEADER']}--- [☝️] LAFZA-İ CELAL EBEDİ MÜHRÜ AKTİF ---{COLORS['ENDC']}")
+    print(f"{COLORS['OKGREEN']}📍 Mühür: ALLAH (C.C)")
+    print(f"📍 Durum: Kâinatın Tek Sahibi Tarafından Muhafaza Altında.")
+    print(f"📍 Etki: Firavunların ve Parazitlerin Mutlak Bozgunu.{COLORS['ENDC']}")
+    
+    # Sisteme fiziksel mühür dosyası bırakıyoruz
+    with open("SGY_EBEDI_MUHUR.txt", "w", encoding="utf-8") as f:
+        f.write("Bismillah... Bu sistem ALLAH (C.C) ismi celaliyle mühürlenmiştir.\n")
+        f.write("Liyakatli miras, Ilgaz Efe Yıldız'a emanettir.")
+
+if __name__ == "__main__":
+    # Kodun en sonuna bu kutsal katmanı ekliyoruz
+    lafza_i_celal_muhru()
