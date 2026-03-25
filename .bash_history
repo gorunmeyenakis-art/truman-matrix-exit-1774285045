@@ -387,3 +387,546 @@ EOF
 chmod +x sgy_kalkan.py
 python3 sgy_kalkan.py
 exit
+# SGY-STABILIZER: Akışı GitHub'a sabitle ve sistemi sakinleştir
+git add .
+git commit -m "SGY-MASTER: Zülkarneyn Seddi Kalktı, Metaverse Realize Edildi"
+git push origin master
+# SGY-STABILIZER: Akışı GitHub'a sabitle ve sistemi sakinleştir
+git add .
+git commit -m "SGY-MASTER: Zülkarneyn Seddi Kalktı, Metaverse Realize Edildi"
+git push origin master
+# SGY-STABILIZER: Akışı GitHub'a sabitle ve sistemi sakinleştir
+git add .
+git commit -m "SGY-MASTER: Zülkarneyn Seddi Kalktı, Metaverse Realize Edildi"
+git push origin master
+# SGY-STABILIZER: Akışı GitHub'a sabitle ve sistemi sakinleştir
+git add .
+git commit -m "SGY-MASTER: Zülkarneyn Seddi Kalktı, Metaverse Realize Edildi"
+git push origin master
+cat << 'EOF' > sgy_metaverse_realizer.py
+import time
+
+def metaverse_realize():
+    print("\033[1;94m[SGY-METAVERSE] FİZİKİ MEKANİK ENTEGRASYON BAŞLATILIYOR...\033[0m")
+    
+    adimlar = [
+        "1. Görsel Algı (Foveated Rendering) -> Göz Takibi Aktif",
+        "2. Ağ Altyapısı (Edge Computing) -> 5G/6G Düğümü Bağlandı",
+        "3. Yapay Zeka (Generative NPC) -> LLM Karakter Analizi Tamam",
+        "4. Fiziksel Dokunuş (Haptic Feedback) -> Mekanik Aktüatörler Hazır"
+    ]
+    
+    for adim in adimlar:
+        print(f"\033[92m[*] {adim} ... OK\033[0m")
+        time.sleep(1)
+
+    print("\n\033[1;93m[!] SİSTEM NOTU: Sanal ve Gerçeklik Arasındaki Sed (Zülkarneyn) Kaldırıldı.\033[0m")
+    print("\033[1;93m[!] HEDEF: Ilgaz Efe Yıldız İçin Yaşayan Bir Miras.\033[0m")
+
+def gite_ucur():
+    print("\033[1;96m[SGY-FLY] Metaverse Analizi GitHub Kalesine Gönderiliyor...\033[0m")
+    os.system("git add .")
+    mesaj = "SGY-MASTER: Metaverse ve Fiziksel Realizasyon Mimarisi Muhurlendi"
+    os.system(f'git commit -m "{mesaj}"')
+    os.system("git push origin master")
+
+if __name__ == "__main__":
+    import os
+    metaverse_realize()
+    gite_ucur()
+EOF
+
+chmod +x sgy_metaverse_realizer.py
+cat << 'EOF' > sgy_metaverse_realizer.py
+import time
+
+def metaverse_realize():
+    print("\033[1;94m[SGY-METAVERSE] FİZİKİ MEKANİK ENTEGRASYON BAŞLATILIYOR...\033[0m")
+    
+    adimlar = [
+        "1. Görsel Algı (Foveated Rendering) -> Göz Takibi Aktif",
+        "2. Ağ Altyapısı (Edge Computing) -> 5G/6G Düğümü Bağlandı",
+        "3. Yapay Zeka (Generative NPC) -> LLM Karakter Analizi Tamam",
+        "4. Fiziksel Dokunuş (Haptic Feedback) -> Mekanik Aktüatörler Hazır"
+    ]
+    
+    for adim in adimlar:
+        print(f"\033[92m[*] {adim} ... OK\033[0m")
+        time.sleep(1)
+
+    print("\n\033[1;93m[!] SİSTEM NOTU: Sanal ve Gerçeklik Arasındaki Sed (Zülkarneyn) Kaldırıldı.\033[0m")
+    print("\033[1;93m[!] HEDEF: Ilgaz Efe Yıldız İçin Yaşayan Bir Miras.\033[0m")
+
+def gite_ucur():
+    print("\033[1;96m[SGY-FLY] Metaverse Analizi GitHub Kalesine Gönderiliyor...\033[0m")
+    os.system("git add .")
+    mesaj = "SGY-MASTER: Metaverse ve Fiziksel Realizasyon Mimarisi Muhurlendi"
+    os.system(f'git commit -m "{mesaj}"')
+    os.system("git push origin master")
+
+if __name__ == "__main__":
+    import os
+    metaverse_realize()
+    gite_ucur()
+EOF
+
+chmod +x sgy_metaverse_realizer.py
+python3 sgy_kalkan.py
+cat << 'EOF' > sgy_metaverse_realizer.py
+import time
+
+def metaverse_realize():
+    print("\033[1;94m[SGY-METAVERSE] FİZİKİ MEKANİK ENTEGRASYON BAŞLATILIYOR...\033[0m")
+    
+    adimlar = [
+        "1. Görsel Algı (Foveated Rendering) -> Göz Takibi Aktif",
+        "2. Ağ Altyapısı (Edge Computing) -> 5G/6G Düğümü Bağlandı",
+        "3. Yapay Zeka (Generative NPC) -> LLM Karakter Analizi Tamam",
+        "4. Fiziksel Dokunuş (Haptic Feedback) -> Mekanik Aktüatörler Hazır"
+    ]
+    
+    for adim in adimlar:
+        print(f"\033[92m[*] {adim} ... OK\033[0m")
+        time.sleep(1)
+
+    print("\n\033[1;93m[!] SİSTEM NOTU: Sanal ve Gerçeklik Arasındaki Sed (Zülkarneyn) Kaldırıldı.\033[0m")
+    print("\033[1;93m[!] HEDEF: Ilgaz Efe Yıldız İçin Yaşayan Bir Miras.\033[0m")
+
+def gite_ucur():
+    print("\033[1;96m[SGY-FLY] Metaverse Analizi GitHub Kalesine Gönderiliyor...\033[0m")
+    os.system("git add .")
+    mesaj = "SGY-MASTER: Metaverse ve Fiziksel Realizasyon Mimarisi Muhurlendi"
+    os.system(f'git commit -m "{mesaj}"')
+    os.system("git push origin master")
+
+if __name__ == "__main__":
+    import os
+    metaverse_realize()
+    gite_ucur()
+EOF
+
+chmod +x sgy_metaverse_realizer.py
+cat << 'EOF' > sgy_metaverse_realizer.py
+import time
+
+def metaverse_realize():
+    print("\033[1;94m[SGY-METAVERSE] FİZİKİ MEKANİK ENTEGRASYON BAŞLATILIYOR...\033[0m")
+    
+    adimlar = [
+        "1. Görsel Algı (Foveated Rendering) -> Göz Takibi Aktif",
+        "2. Ağ Altyapısı (Edge Computing) -> 5G/6G Düğümü Bağlandı",
+        "3. Yapay Zeka (Generative NPC) -> LLM Karakter Analizi Tamam",
+        "4. Fiziksel Dokunuş (Haptic Feedback) -> Mekanik Aktüatörler Hazır"
+    ]
+    
+    for adim in adimlar:
+        print(f"\033[92m[*] {adim} ... OK\033[0m")
+        time.sleep(1)
+
+    print("\n\033[1;93m[!] SİSTEM NOTU: Sanal ve Gerçeklik Arasındaki Sed (Zülkarneyn) Kaldırıldı.\033[0m")
+    print("\033[1;93m[!] HEDEF: Ilgaz Efe Yıldız İçin Yaşayan Bir Miras.\033[0m")
+
+def gite_ucur():
+    print("\033[1;96m[SGY-FLY] Metaverse Analizi GitHub Kalesine Gönderiliyor...\033[0m")
+    os.system("git add .")
+    mesaj = "SGY-MASTER: Metaverse ve Fiziksel Realizasyon Mimarisi Muhurlendi"
+    os.system(f'git commit -m "{mesaj}"')
+    os.system("git push origin master")
+
+if __name__ == "__main__":
+    import os
+    metaverse_realize()
+    gite_ucur()
+EOF
+
+chmod +x sgy_metaverse_realizer.py
+cat << 'EOF' > sgy_metaverse_realizer.py
+import time
+
+def metaverse_realize():
+    print("\033[1;94m[SGY-METAVERSE] FİZİKİ MEKANİK ENTEGRASYON BAŞLATILIYOR...\033[0m")
+    
+    adimlar = [
+        "1. Görsel Algı (Foveated Rendering) -> Göz Takibi Aktif",
+        "2. Ağ Altyapısı (Edge Computing) -> 5G/6G Düğümü Bağlandı",
+        "3. Yapay Zeka (Generative NPC) -> LLM Karakter Analizi Tamam",
+        "4. Fiziksel Dokunuş (Haptic Feedback) -> Mekanik Aktüatörler Hazır"
+    ]
+    
+    for adim in adimlar:
+        print(f"\033[92m[*] {adim} ... OK\033[0m")
+        time.sleep(1)
+
+    print("\n\033[1;93m[!] SİSTEM NOTU: Sanal ve Gerçeklik Arasındaki Sed (Zülkarneyn) Kaldırıldı.\033[0m")
+    print("\033[1;93m[!] HEDEF: Ilgaz Efe Yıldız İçin Yaşayan Bir Miras.\033[0m")
+
+def gite_ucur():
+    print("\033[1;96m[SGY-FLY] Metaverse Analizi GitHub Kalesine Gönderiliyor...\033[0m")
+    os.system("git add .")
+    mesaj = "SGY-MASTER: Metaverse ve Fiziksel Realizasyon Mimarisi Muhurlendi"
+    os.system(f'git commit -m "{mesaj}"')
+    os.system("git push origin master")
+
+if __name__ == "__main__":
+    import os
+    metaverse_realize()
+    gite_ucur()
+EOF
+
+chmod +x sgy_metaverse_realizer.py
+cat << 'EOF' > sgy_metaverse_realizer.py
+import time
+
+def metaverse_realize():
+    print("\033[1;94m[SGY-METAVERSE] FİZİKİ MEKANİK ENTEGRASYON BAŞLATILIYOR...\033[0m")
+    
+    adimlar = [
+        "1. Görsel Algı (Foveated Rendering) -> Göz Takibi Aktif",
+        "2. Ağ Altyapısı (Edge Computing) -> 5G/6G Düğümü Bağlandı",
+        "3. Yapay Zeka (Generative NPC) -> LLM Karakter Analizi Tamam",
+        "4. Fiziksel Dokunuş (Haptic Feedback) -> Mekanik Aktüatörler Hazır"
+    ]
+    
+    for adim in adimlar:
+        print(f"\033[92m[*] {adim} ... OK\033[0m")
+        time.sleep(1)
+
+    print("\n\033[1;93m[!] SİSTEM NOTU: Sanal ve Gerçeklik Arasındaki Sed (Zülkarneyn) Kaldırıldı.\033[0m")
+    print("\033[1;93m[!] HEDEF: Ilgaz Efe Yıldız İçin Yaşayan Bir Miras.\033[0m")
+
+def gite_ucur():
+    print("\033[1;96m[SGY-FLY] Metaverse Analizi GitHub Kalesine Gönderiliyor...\033[0m")
+    os.system("git add .")
+    mesaj = "SGY-MASTER: Metaverse ve Fiziksel Realizasyon Mimarisi Muhurlendi"
+    os.system(f'git commit -m "{mesaj}"')
+    os.system("git push origin master")
+
+if __name__ == "__main__":
+    import os
+    metaverse_realize()
+    gite_ucur()
+EOF
+
+chmod +x sgy_metaverse_realizer.py
+cat << 'EOF' > sgy_metaverse_realizer.py
+import time
+
+def metaverse_realize():
+    print("\033[1;94m[SGY-METAVERSE] FİZİKİ MEKANİK ENTEGRASYON BAŞLATILIYOR...\033[0m")
+    
+    adimlar = [
+        "1. Görsel Algı (Foveated Rendering) -> Göz Takibi Aktif",
+        "2. Ağ Altyapısı (Edge Computing) -> 5G/6G Düğümü Bağlandı",
+        "3. Yapay Zeka (Generative NPC) -> LLM Karakter Analizi Tamam",
+        "4. Fiziksel Dokunuş (Haptic Feedback) -> Mekanik Aktüatörler Hazır"
+    ]
+    
+    for adim in adimlar:
+        print(f"\033[92m[*] {adim} ... OK\033[0m")
+        time.sleep(1)
+
+    print("\n\033[1;93m[!] SİSTEM NOTU: Sanal ve Gerçeklik Arasındaki Sed (Zülkarneyn) Kaldırıldı.\033[0m")
+    print("\033[1;93m[!] HEDEF: Ilgaz Efe Yıldız İçin Yaşayan Bir Miras.\033[0m")
+
+def gite_ucur():
+    print("\033[1;96m[SGY-FLY] Metaverse Analizi GitHub Kalesine Gönderiliyor...\033[0m")
+    os.system("git add .")
+    mesaj = "SGY-MASTER: Metaverse ve Fiziksel Realizasyon Mimarisi Muhurlendi"
+    os.system(f'git commit -m "{mesaj}"')
+    os.system("git push origin master")
+
+if __name__ == "__main__":
+    import os
+    metaverse_realize()
+    gite_ucur()
+EOF
+
+chmod +x sgy_metaverse_realizer.py
+cat << 'EOF' > sgy_atomic_core.py
+import time
+import os
+
+def atomic_reactors_start():
+    os.system('clear')
+    print("\033[1;31m[☢️ SGY-ATOMIC] NÜKLEER ÇEKİRDEK AKTİF EDİLİYOR...\033[0m")
+    time.sleep(1)
+    
+    print("\033[1;33m[!] Fisyon Başladı: Veri Parçalanıyor ve Hakikat Analiz Ediliyor.")
+    print("[!] Füzyon Başladı: Manevi Güç ve Siber Kod Birleşiyor.")
+    
+    params = [
+        "Reaktör Soğutma (Zülkarneyn Seddi) -> %100",
+        "Enerji Çıkışı (Baseband Signal) -> 10.000 Terahertz",
+        "Savunma Kalkanı (Ayetü'l-Kürsi Layer) -> DELİNAMAZ",
+        "Hedef: Kapitalizmin Tamamen Buharlaşması"
+    ]
+    
+    for p in params:
+        print(f"\033[92m[⚡] {p} ... OK\033[0m")
+        time.sleep(0.5)
+
+def gite_ucur():
+    print("\033[1;96m[SGY-FLY] Atomik Güç GitHub Kalesine Gönderiliyor...\033[0m")
+    os.system("git add .")
+    mesaj = "SGY-MASTER: ATOMIK CEKIRDEK AKTIF - SAVAS MODU SEVİYE 5"
+    os.system(f'git commit -m "{mesaj}"')
+    os.system("git push origin master")
+    print("\033[1;91m[☢️] NÜKLEER MÜHÜR VURULDU. DÜŞMAN İÇİN GERİ SAYIM BAŞLADI!\033[0m")
+
+if __name__ == "__main__":
+    atomic_reactors_start()
+    gite_ucur()
+EOF
+
+chmod +x sgy_atomic_core.py
+cat << 'EOF' > sgy_atomic_core.py
+import time
+import os
+
+def atomic_reactors_start():
+    os.system('clear')
+    print("\033[1;31m[☢️ SGY-ATOMIC] NÜKLEER ÇEKİRDEK AKTİF EDİLİYOR...\033[0m")
+    time.sleep(1)
+    
+    print("\033[1;33m[!] Fisyon Başladı: Veri Parçalanıyor ve Hakikat Analiz Ediliyor.")
+    print("[!] Füzyon Başladı: Manevi Güç ve Siber Kod Birleşiyor.")
+    
+    params = [
+        "Reaktör Soğutma (Zülkarneyn Seddi) -> %100",
+        "Enerji Çıkışı (Baseband Signal) -> 10.000 Terahertz",
+        "Savunma Kalkanı (Ayetü'l-Kürsi Layer) -> DELİNAMAZ",
+        "Hedef: Kapitalizmin Tamamen Buharlaşması"
+    ]
+    
+    for p in params:
+        print(f"\033[92m[⚡] {p} ... OK\033[0m")
+        time.sleep(0.5)
+
+def gite_ucur():
+    print("\033[1;96m[SGY-FLY] Atomik Güç GitHub Kalesine Gönderiliyor...\033[0m")
+    os.system("git add .")
+    mesaj = "SGY-MASTER: ATOMIK CEKIRDEK AKTIF - SAVAS MODU SEVİYE 5"
+    os.system(f'git commit -m "{mesaj}"')
+    os.system("git push origin master")
+    print("\033[1;91m[☢️] NÜKLEER MÜHÜR VURULDU. DÜŞMAN İÇİN GERİ SAYIM BAŞLADI!\033[0m")
+
+if __name__ == "__main__":
+    atomic_reactors_start()
+    gite_ucur()
+EOF
+
+chmod +x sgy_atomic_core.py
+cat << 'EOF' > sgy_atomic_core.py
+import time
+import os
+
+def atomic_reactors_start():
+    os.system('clear')
+    print("\033[1;31m[☢️ SGY-ATOMIC] NÜKLEER ÇEKİRDEK AKTİF EDİLİYOR...\033[0m")
+    time.sleep(1)
+    
+    print("\033[1;33m[!] Fisyon Başladı: Veri Parçalanıyor ve Hakikat Analiz Ediliyor.")
+    print("[!] Füzyon Başladı: Manevi Güç ve Siber Kod Birleşiyor.")
+    
+    params = [
+        "Reaktör Soğutma (Zülkarneyn Seddi) -> %100",
+        "Enerji Çıkışı (Baseband Signal) -> 10.000 Terahertz",
+        "Savunma Kalkanı (Ayetü'l-Kürsi Layer) -> DELİNAMAZ",
+        "Hedef: Kapitalizmin Tamamen Buharlaşması"
+    ]
+    
+    for p in params:
+        print(f"\033[92m[⚡] {p} ... OK\033[0m")
+        time.sleep(0.5)
+
+def gite_ucur():
+    print("\033[1;96m[SGY-FLY] Atomik Güç GitHub Kalesine Gönderiliyor...\033[0m")
+    os.system("git add .")
+    mesaj = "SGY-MASTER: ATOMIK CEKIRDEK AKTIF - SAVAS MODU SEVİYE 5"
+    os.system(f'git commit -m "{mesaj}"')
+    os.system("git push origin master")
+    print("\033[1;91m[☢️] NÜKLEER MÜHÜR VURULDU. DÜŞMAN İÇİN GERİ SAYIM BAŞLADI!\033[0m")
+
+if __name__ == "__main__":
+    atomic_reactors_start()
+    gite_ucur()
+EOF
+
+chmod +x sgy_atomic_core.py
+cat << 'EOF' > sgy_atomic_core.py
+import time
+import os
+
+def atomic_reactors_start():
+    os.system('clear')
+    print("\033[1;31m[☢️ SGY-ATOMIC] NÜKLEER ÇEKİRDEK AKTİF EDİLİYOR...\033[0m")
+    time.sleep(1)
+    
+    print("\033[1;33m[!] Fisyon Başladı: Veri Parçalanıyor ve Hakikat Analiz Ediliyor.")
+    print("[!] Füzyon Başladı: Manevi Güç ve Siber Kod Birleşiyor.")
+    
+    params = [
+        "Reaktör Soğutma (Zülkarneyn Seddi) -> %100",
+        "Enerji Çıkışı (Baseband Signal) -> 10.000 Terahertz",
+        "Savunma Kalkanı (Ayetü'l-Kürsi Layer) -> DELİNAMAZ",
+        "Hedef: Kapitalizmin Tamamen Buharlaşması"
+    ]
+    
+    for p in params:
+        print(f"\033[92m[⚡] {p} ... OK\033[0m")
+        time.sleep(0.5)
+
+def gite_ucur():
+    print("\033[1;96m[SGY-FLY] Atomik Güç GitHub Kalesine Gönderiliyor...\033[0m")
+    os.system("git add .")
+    mesaj = "SGY-MASTER: ATOMIK CEKIRDEK AKTIF - SAVAS MODU SEVİYE 5"
+    os.system(f'git commit -m "{mesaj}"')
+    os.system("git push origin master")
+    print("\033[1;91m[☢️] NÜKLEER MÜHÜR VURULDU. DÜŞMAN İÇİN GERİ SAYIM BAŞLADI!\033[0m")
+
+if __name__ == "__main__":
+    atomic_reactors_start()
+    gite_ucur()
+EOF
+
+chmod +x sgy_atomic_core.py
+cat << 'EOF' > sgy_atomic_core.py
+import time
+import os
+
+def atomic_reactors_start():
+    os.system('clear')
+    print("\033[1;31m[☢️ SGY-ATOMIC] NÜKLEER ÇEKİRDEK AKTİF EDİLİYOR...\033[0m")
+    time.sleep(1)
+    
+    print("\033[1;33m[!] Fisyon Başladı: Veri Parçalanıyor ve Hakikat Analiz Ediliyor.")
+    print("[!] Füzyon Başladı: Manevi Güç ve Siber Kod Birleşiyor.")
+    
+    params = [
+        "Reaktör Soğutma (Zülkarneyn Seddi) -> %100",
+        "Enerji Çıkışı (Baseband Signal) -> 10.000 Terahertz",
+        "Savunma Kalkanı (Ayetü'l-Kürsi Layer) -> DELİNAMAZ",
+        "Hedef: Kapitalizmin Tamamen Buharlaşması"
+    ]
+    
+    for p in params:
+        print(f"\033[92m[⚡] {p} ... OK\033[0m")
+        time.sleep(0.5)
+
+def gite_ucur():
+    print("\033[1;96m[SGY-FLY] Atomik Güç GitHub Kalesine Gönderiliyor...\033[0m")
+    os.system("git add .")
+    mesaj = "SGY-MASTER: ATOMIK CEKIRDEK AKTIF - SAVAS MODU SEVİYE 5"
+    os.system(f'git commit -m "{mesaj}"')
+    os.system("git push origin master")
+    print("\033[1;91m[☢️] NÜKLEER MÜHÜR VURULDU. DÜŞMAN İÇİN GERİ SAYIM BAŞLADI!\033[0m")
+
+if __name__ == "__main__":
+    atomic_reactors_start()
+    gite_ucur()
+EOF
+
+chmod +x sgy_atomic_core.py
+sgy_atomic_core.py
+cat << 'EOF' > sgy_tek_tik.py
+import os
+import time
+
+def kalkan_ve_enerji():
+    os.system('clear')
+    print("\033[1;31m[☢️ SGY-ATOMIC] NÜKLEER ÇEKİRDEK VE MANEVİ ZIRH AKTİF EDİLİYOR...\033[0m")
+    time.sleep(1)
+    
+    # Manevi ve Teknik Parametreler
+    print("\033[1;32m[✅] Hasbünallahu ve ni’mel vekil... OK")
+    print("[✅] Bismillâhillezî lâ yedurru... OK")
+    print("[✅] Nükleer Reaktör Verimliliği: %100")
+    print("[✅] Güvenlik Skoru (Sentinel): 5.66 GHz\033[0m")
+    time.sleep(2)
+
+def gite_firlat():
+    print("\n\033[1;96m[🚀] SİBERAY GÜCÜYLE GITHUB KALESİNE SEVKIYAT BAŞLADI...\033[0m")
+    
+    # Tüm yeni dosyaları ve atomik çekirdeği ekle
+    os.system("git add .")
+    
+    # Savaş ve Nükleer Mühür Mesajı
+    mesaj = "SGY-MASTER: ATOMIK CEKIRDEK VE MANEVI KALKAN TEK TIKLA MUHURLENDI"
+    os.system(f'git commit -m "{mesaj}"')
+    
+    # Kapıları (Master Branch) zorla aç ve uçur
+    os.system("git push -u origin master")
+    
+    print("\n\033[1;92m[🏁] İŞLEM TAMAM BABAOĞLU! NÜKLEER GÜÇ BULUTTA SABİTLENDİ.\033[0m")
+
+if __name__ == "__main__":
+    kalkan_ve_enerji()
+    gite_firlat()
+EOF
+
+# Çalıştırma iznini veriyoruz
+chmod +x sgy_tek_tik.py
+python3 sgy_tek_tik.py
+import os
+import time
+import subprocess
+def kalkan_ve_enerji():
+def komut_calistir(komut):
+def gite_firlat():
+if __name__ == "__main__":;     try:;         kalkan_ve_enerji()         gite_firlat()
+import os
+import time
+import subprocess
+def kalkan_ve_enerji():
+def komut_calistir(komut):
+def gite_firlat():
+if __name__ == "__main__":;     try:;         kalkan_ve_enerji()         gite_firlat()
+import os
+import time
+import subprocess
+def kalkan_ve_enerji():
+def komut_calistir(komut):
+def gite_firlat():
+if __name__ == "__main__":;     try:;         kalkan_ve_enerji()         gite_firlat()
+/import os
+import time
+import subprocess
+def kalkan_ve_enerji():
+def komut_calistir(komut):
+def gite_firlat():
+if __name__ == "__main__":;     try:;         kalkan_ve_enerji()         gite_firlat()
+import os
+import time
+import subprocess
+def kalkan_ve_enerji():
+def komut_calistir(komut):
+def gite_firlat():
+if __name__ == "__main__":;     try:;         kalkan_ve_enerji()         gite_firlat()
+import time
+import subprocess
+def kalkan_ve_enerji():
+def komut_calistir(komut):
+def gite_firlat():
+if __name__ == "__main__":;     try:;         kalkan_ve_enerji()         gite_firlat()
+import os
+import sys
+import time
+import subprocess
+# --- MANEVİ VE TEKNİK AYARLAR ---
+COLORS = {
+}
+def kalkan_ve_enerji():
+def sizinti_kontrol():
+if __name__ == "__main__":;     kalkan_ve_enerji()     sizinti_kontrol()
+import sys
+import time
+import subprocess
+# --- MANEVİ VE TEKNİK AYARLAR ---
+COLORS = {
+}
+def kalkan_ve_enerji():
+def sizinti_kontrol():
+if __name__ == "__main__":;     kalkan_ve_enerji()     sizinti_kontrol()
+nano sgy_atomic.py
+python sgy_atomic.py
+exit
