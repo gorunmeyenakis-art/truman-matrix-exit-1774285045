@@ -155,3 +155,5 @@ if ! shopt -oq posix; then
   fi
 fi
 alias sgy='python ~/sgy.py'
+python3 ~/sgy_iman_nobeti.py &
+python3 ~/sgy_sentinel.py &
