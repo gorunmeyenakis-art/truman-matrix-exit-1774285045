@@ -324,3 +324,14 @@ exit
 exit
 sgyxai
 exit
+C# Tüm asılı kalan Python ve Git işlemlerini durdur
+pkill -f python3
+pkill -f git
+# Gereksiz kilit dosyalarını temizle
+rm -f .git/index.lock
+# Tüm asılı kalan Python ve Git işlemlerini durdur
+pkill -f python3
+pkill -f git
+# Gereksiz kilit dosyalarını temizle
+rm -f .git/index.lock
+exit
