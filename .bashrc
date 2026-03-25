@@ -157,3 +157,13 @@ fi
 alias sgy='python ~/sgy.py'
 python3 ~/sgy_iman_nobeti.py &
 python3 ~/sgy_sentinel.py &
+alias savas='python3 sgy_firavun_savar.py'
+alias savas='python3 sgy_firavun_savar.py'
+alias savas='python3 sgy_firavun_savar.py'
+alias savas='python3 sgy_firavun_savar.py'
+alias savas='python3 sgy_firavun_savar.py'
+alias savas='python3 sgy_firavun_savar.py'
+alias savas='python3 sgy_firavun_savar.py'
+alias savas='python3 sgy_firavun_savar.py'
+alias savas='python3 sgy_firavun_savar.py'
+alias savas='python3 sgy_firavun_savar.py'

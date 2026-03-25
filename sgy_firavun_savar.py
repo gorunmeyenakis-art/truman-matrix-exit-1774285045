@@ -72,3 +72,146 @@ if __name__ == "__main__":
         tam_guc_hucum()
     except KeyboardInterrupt:
         print("\n[!] Durduruldu.")
+
+def ism_i_azam_muhru():
+    print(f"\n{COLORS['BOLD']}{COLORS['HEADER']}--- 100. SIR: İSM-İ AZAM VE MUTLAK HAKİKAT ---{COLORS['ENDC']}")
+    print(f"{COLORS['OKGREEN']}[✨] 99 Esma Birleşti, 100. Sır Tecelli Etti.")
+    print(f"[✨] 'Allah' ismi celaliyle tüm Matrix sızıntıları mühürlendi.")
+    print(f"[✨] Liyakat Yolu: Nur üzerine Nur!{COLORS['ENDC']}")
+    
+    with open("ISM_I_AZAM_ZIRHI.txt", "w", encoding="utf-8") as f:
+        f.write("Bismillah... 100. Sır: İsm-i Azam ile bu kale ebediyen muhafaza altındadır.")
+
+if __name__ == "__main__":
+    # Kodun sonuna bu mührü ekle
+    ism_i_azam_muhru()
+
+def ism_i_azam_muhru():
+    print(f"\n{COLORS['BOLD']}{COLORS['HEADER']}--- 100. SIR: İSM-İ AZAM VE MUTLAK HAKİKAT ---{COLORS['ENDC']}")
+    print(f"{COLORS['OKGREEN']}[✨] 99 Esma Birleşti, 100. Sır Tecelli Etti.")
+    print(f"[✨] 'Allah' ismi celaliyle tüm Matrix sızıntıları mühürlendi.")
+    print(f"[✨] Liyakat Yolu: Nur üzerine Nur!{COLORS['ENDC']}")
+    
+    with open("ISM_I_AZAM_ZIRHI.txt", "w", encoding="utf-8") as f:
+        f.write("Bismillah... 100. Sır: İsm-i Azam ile bu kale ebediyen muhafaza altındadır.")
+
+if __name__ == "__main__":
+    # Kodun sonuna bu mührü ekle
+    ism_i_azam_muhru()
+
+def ism_i_azam_muhru():
+    print(f"\n{COLORS['BOLD']}{COLORS['HEADER']}--- 100. SIR: İSM-İ AZAM VE MUTLAK HAKİKAT ---{COLORS['ENDC']}")
+    print(f"{COLORS['OKGREEN']}[✨] 99 Esma Birleşti, 100. Sır Tecelli Etti.")
+    print(f"[✨] 'Allah' ismi celaliyle tüm Matrix sızıntıları mühürlendi.")
+    print(f"[✨] Liyakat Yolu: Nur üzerine Nur!{COLORS['ENDC']}")
+    
+    with open("ISM_I_AZAM_ZIRHI.txt", "w", encoding="utf-8") as f:
+        f.write("Bismillah... 100. Sır: İsm-i Azam ile bu kale ebediyen muhafaza altındadır.")
+
+if __name__ == "__main__":
+    # Kodun sonuna bu mührü ekle
+    ism_i_azam_muhru()
+
+def ism_i_azam_muhru():
+    print(f"\n{COLORS['BOLD']}{COLORS['HEADER']}--- 100. SIR: İSM-İ AZAM VE MUTLAK HAKİKAT ---{COLORS['ENDC']}")
+    print(f"{COLORS['OKGREEN']}[✨] 99 Esma Birleşti, 100. Sır Tecelli Etti.")
+    print(f"[✨] 'Allah' ismi celaliyle tüm Matrix sızıntıları mühürlendi.")
+    print(f"[✨] Liyakat Yolu: Nur üzerine Nur!{COLORS['ENDC']}")
+    
+    with open("ISM_I_AZAM_ZIRHI.txt", "w", encoding="utf-8") as f:
+        f.write("Bismillah... 100. Sır: İsm-i Azam ile bu kale ebediyen muhafaza altındadır.")
+
+if __name__ == "__main__":
+    # Kodun sonuna bu mührü ekle
+    ism_i_azam_muhru()
+
+def ism_i_azam_muhru():
+    print(f"\n{COLORS['BOLD']}{COLORS['HEADER']}--- 100. SIR: İSM-İ AZAM VE MUTLAK HAKİKAT ---{COLORS['ENDC']}")
+    print(f"{COLORS['OKGREEN']}[✨] 99 Esma Birleşti, 100. Sır Tecelli Etti.")
+    print(f"[✨] 'Allah' ismi celaliyle tüm Matrix sızıntıları mühürlendi.")
+    print(f"[✨] Liyakat Yolu: Nur üzerine Nur!{COLORS['ENDC']}")
+    
+    with open("ISM_I_AZAM_ZIRHI.txt", "w", encoding="utf-8") as f:
+        f.write("Bismillah... 100. Sır: İsm-i Azam ile bu kale ebediyen muhafaza altındadır.")
+
+if __name__ == "__main__":
+    # Kodun sonuna bu mührü ekle
+    ism_i_azam_muhru()
+
+def ism_i_azam_muhru():
+    print(f"\n{COLORS['BOLD']}{COLORS['HEADER']}--- 100. SIR: İSM-İ AZAM VE MUTLAK HAKİKAT ---{COLORS['ENDC']}")
+    print(f"{COLORS['OKGREEN']}[✨] 99 Esma Birleşti, 100. Sır Tecelli Etti.")
+    print(f"[✨] 'Allah' ismi celaliyle tüm Matrix sızıntıları mühürlendi.")
+    print(f"[✨] Liyakat Yolu: Nur üzerine Nur!{COLORS['ENDC']}")
+    
+    with open("ISM_I_AZAM_ZIRHI.txt", "w", encoding="utf-8") as f:
+        f.write("Bismillah... 100. Sır: İsm-i Azam ile bu kale ebediyen muhafaza altındadır.")
+
+if __name__ == "__main__":
+    # Kodun sonuna bu mührü ekle
+    ism_i_azam_muhru()
+
+def ism_i_azam_muhru():
+    print(f"\n{COLORS['BOLD']}{COLORS['HEADER']}--- 100. SIR: İSM-İ AZAM VE MUTLAK HAKİKAT ---{COLORS['ENDC']}")
+    print(f"{COLORS['OKGREEN']}[✨] 99 Esma Birleşti, 100. Sır Tecelli Etti.")
+    print(f"[✨] 'Allah' ismi celaliyle tüm Matrix sızıntıları mühürlendi.")
+    print(f"[✨] Liyakat Yolu: Nur üzerine Nur!{COLORS['ENDC']}")
+    
+    with open("ISM_I_AZAM_ZIRHI.txt", "w", encoding="utf-8") as f:
+        f.write("Bismillah... 100. Sır: İsm-i Azam ile bu kale ebediyen muhafaza altındadır.")
+
+if __name__ == "__main__":
+    # Kodun sonuna bu mührü ekle
+    ism_i_azam_muhru()
+
+def ism_i_azam_muhru():
+    print(f"\n{COLORS['BOLD']}{COLORS['HEADER']}--- 100. SIR: İSM-İ AZAM VE MUTLAK HAKİKAT ---{COLORS['ENDC']}")
+    print(f"{COLORS['OKGREEN']}[✨] 99 Esma Birleşti, 100. Sır Tecelli Etti.")
+    print(f"[✨] 'Allah' ismi celaliyle tüm Matrix sızıntıları mühürlendi.")
+    print(f"[✨] Liyakat Yolu: Nur üzerine Nur!{COLORS['ENDC']}")
+    
+    with open("ISM_I_AZAM_ZIRHI.txt", "w", encoding="utf-8") as f:
+        f.write("Bismillah... 100. Sır: İsm-i Azam ile bu kale ebediyen muhafaza altındadır.")
+
+if __name__ == "__main__":
+    # Kodun sonuna bu mührü ekle
+    ism_i_azam_muhru()
+
+def ism_i_azam_muhru():
+    print(f"\n{COLORS['BOLD']}{COLORS['HEADER']}--- 100. SIR: İSM-İ AZAM VE MUTLAK HAKİKAT ---{COLORS['ENDC']}")
+    print(f"{COLORS['OKGREEN']}[✨] 99 Esma Birleşti, 100. Sır Tecelli Etti.")
+    print(f"[✨] 'Allah' ismi celaliyle tüm Matrix sızıntıları mühürlendi.")
+    print(f"[✨] Liyakat Yolu: Nur üzerine Nur!{COLORS['ENDC']}")
+    
+    with open("ISM_I_AZAM_ZIRHI.txt", "w", encoding="utf-8") as f:
+        f.write("Bismillah... 100. Sır: İsm-i Azam ile bu kale ebediyen muhafaza altındadır.")
+
+if __name__ == "__main__":
+    # Kodun sonuna bu mührü ekle
+    ism_i_azam_muhru()
+
+def ism_i_azam_muhru():
+    print(f"\n{COLORS['BOLD']}{COLORS['HEADER']}--- 100. SIR: İSM-İ AZAM VE MUTLAK HAKİKAT ---{COLORS['ENDC']}")
+    print(f"{COLORS['OKGREEN']}[✨] 99 Esma Birleşti, 100. Sır Tecelli Etti.")
+    print(f"[✨] 'Allah' ismi celaliyle tüm Matrix sızıntıları mühürlendi.")
+    print(f"[✨] Liyakat Yolu: Nur üzerine Nur!{COLORS['ENDC']}")
+    
+    with open("ISM_I_AZAM_ZIRHI.txt", "w", encoding="utf-8") as f:
+        f.write("Bismillah... 100. Sır: İsm-i Azam ile bu kale ebediyen muhafaza altındadır.")
+
+if __name__ == "__main__":
+    # Kodun sonuna bu mührü ekle
+    ism_i_azam_muhru()
+
+def ism_i_azam_muhru():
+    print(f"\n{COLORS['BOLD']}{COLORS['HEADER']}--- 100. SIR: İSM-İ AZAM VE MUTLAK HAKİKAT ---{COLORS['ENDC']}")
+    print(f"{COLORS['OKGREEN']}[✨] 99 Esma Birleşti, 100. Sır Tecelli Etti.")
+    print(f"[✨] 'Allah' ismi celaliyle tüm Matrix sızıntıları mühürlendi.")
+    print(f"[✨] Liyakat Yolu: Nur üzerine Nur!{COLORS['ENDC']}")
+    
+    with open("ISM_I_AZAM_ZIRHI.txt", "w", encoding="utf-8") as f:
+        f.write("Bismillah... 100. Sır: İsm-i Azam ile bu kale ebediyen muhafaza altındadır.")
+
+if __name__ == "__main__":
+    # Kodun sonuna bu mührü ekle
+    ism_i_azam_muhru()
