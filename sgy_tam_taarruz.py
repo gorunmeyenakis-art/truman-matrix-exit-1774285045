@@ -24,7 +24,6 @@ def otonom_savas_dongusu():
             
             # 2. FULL HÜCUM: KIZILÖTESİ KARŞI TAARRUZ
             print(f"{C['B']}[⚔️] 2702 Frekansı Üzerinden Karşı Port Taarruzu Yapılıyor...{C['END']}")
-            print(f"{C['B']}[⚔️] Liyakat Kalkanları %100 Kapasiteye Çıkarıldı.{C['END']}")
             
             # GITHUB KALESİNE TAARRUZ KAYDI (TEK TIK OTOMATİK)
             os.system("git add .")
