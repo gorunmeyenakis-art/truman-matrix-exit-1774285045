@@ -1,0 +1,27 @@
+beautifulsoup4==4.14.3
+bs4==0.0.2
+certifi==2026.2.25
+charset-normalizer==3.4.6
+colorama==0.4.6
+Cython==3.2.4
+distlib==0.4.0
+filelock==3.25.2
+geographiclib==2.1
+geopy==2.4.1
+idna==3.11
+markdown-it-py==4.0.0
+mdurl==0.1.2
+numpy @ file:///home/builder/.termux-build/python-numpy/src/dist/numpy-2.4.3-cp313-cp313-android_aarch64.whl#sha256=8ef35b7e7291aa8501ff0be8f354f3b089c4e0c08e9a905301b3551814601263
+platformdirs==4.9.4
+Pygments==2.19.2
+PySocks==1.7.1
+python-discovery==1.2.1
+requests==2.33.0
+rich==14.3.3
+scapy==2.7.0
+scipy @ file:///home/builder/.termux-build/python-scipy/src/dist/scipy-1.17.1-cp313-cp313-android_aarch64.whl#sha256=983a3b6ea280209902b8cc8c5c47d881237522224142999ddf2c8e084ffb2db3
+soupsieve==2.8.3
+stem==1.8.2
+typing_extensions==4.15.0
+urllib3==2.6.3
+virtualenv==21.2.0
