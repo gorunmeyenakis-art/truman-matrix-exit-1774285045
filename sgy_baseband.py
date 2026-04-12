@@ -20,4 +20,4 @@ def sgy_baseband_izle():
         print("\n\033[93m[KAPATILDI] Akış mühürlendi, liyakat bakidir.\033[0m")
 
 if __name__ == "__main__":
-    sgy_baseband_izle():
+    sgy_baseband_izle()

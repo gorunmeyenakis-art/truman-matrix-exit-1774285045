@@ -1,14 +1,51 @@
 import sqlite3
 import os
 
+DEFAULT_FINANS = [('Pi', 0.0, 'PI'), ('Athene', 0.0, 'ATH'), ('RZN', 0.0, 'RZN')]
+DEFAULT_PROJELER = [
+    (1, 'SGY-CORE v11.0 Asayis', 'AKTIF'),
+    (2, 'SGY-BEREKET v12.0 Tesvik', 'PLANLANDI'),
+    (3, 'SGY-ISLAH v13.0 Adalet', 'PLANLANDI'),
+    (4, 'SGY-TRAFIK v14.1 Ulasim', 'BEKLEMEDE'),
+    (5, 'SGY-MIRAS v15.1 Miras', 'GELISTIRILIYOR'),
+    (6, 'SGY-AQUA v15.3 Ekoloji', 'PLANLANDI'),
+    (7, 'SGY-SANAYI v17.0 Uretim', 'PLANLANDI'),
+    (8, 'SGY-NIMET v18.0 Gida', 'PLANLANDI'),
+    (9, 'SGY-YAPI v20.0 Mimari', 'PLANLANDI'),
+    (10, 'SGY-AKADEMI v21.0 Egitim', 'PLANLANDI'),
+    (11, 'SGY-GRID v22.0 Enerji', 'TASLAK'),
+    (12, 'SGY-NIHAI v23.0 Entegrasyon', 'TASLAK'),
+    (13, 'AETHER v4.0 Frekans', 'DENEYSEL'),
+    (14, 'RZN CORE v9.0 Finans', 'GELISTIRILIYOR'),
+    (15, '158 MADDE v1.0 Manifesto', 'MUHURLENDI'),
+]
+
+
+def _parse_miktar(value):
+    if value is None:
+        return 0.0
+    if isinstance(value, (int, float)):
+        return float(value)
+    return float(str(value).replace(',', '.'))
+
+
 def veritabani_kontrol():
     conn = sqlite3.connect('sgy_master.db')
     cursor = conn.cursor()
     cursor.execute('CREATE TABLE IF NOT EXISTS finans (id INTEGER PRIMARY KEY, platform TEXT, miktar REAL, birim TEXT)')
+    cursor.execute(
+        'CREATE TABLE IF NOT EXISTS projeler (madde_no INTEGER PRIMARY KEY, baslik TEXT, durum TEXT)'
+    )
     cursor.execute('SELECT COUNT(*) FROM finans')
     if cursor.fetchone()[0] == 0:
         cursor.executemany('INSERT INTO finans (platform, miktar, birim) VALUES (?, ?, ?)', 
-                          [('Pi', 0.0, 'PI'), ('Athene', 0.0, 'ATH'), ('RZN', 0.0, 'RZN')])
+                          DEFAULT_FINANS)
+    cursor.execute('SELECT COUNT(*) FROM projeler')
+    if cursor.fetchone()[0] == 0:
+        cursor.executemany(
+            'INSERT INTO projeler (madde_no, baslik, durum) VALUES (?, ?, ?)',
+            DEFAULT_PROJELER,
+        )
     conn.commit()
     conn.close()
 
@@ -51,8 +88,7 @@ def sgy_dashboard():
     print("\n[ 💰 RZN FINANSAL KATMAN ]")
     cursor.execute('SELECT platform, miktar, birim FROM finans')
     for f in cursor.fetchall():
-        # Veriyi çekerken sayıya dönüştüğünden emin oluyoruz
-        deger = float(f[1]) if f[1] is not None else 0.0
+        deger = _parse_miktar(f[1])
         print(f"📊 {f[0]:<7}: {deger:>10.2f} {f[2]}")
     
     print(f"\n🔐 Sistem Mührü: HW-SEAL [65f189ac]")
